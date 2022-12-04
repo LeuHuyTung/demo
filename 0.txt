@@ -2,3 +2,6 @@ Noi dung 0
 1
 
 master
+
+sua doi alpha
+    
