@@ -1,5 +1,5 @@
 Noi dung 1
 
-tung
+tung gay lem
 
 - Lenh git checkout
